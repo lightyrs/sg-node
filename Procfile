@@ -1,1 +1,1 @@
-jug: juggernaut
+web: juggernaut --port $PORT
