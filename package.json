@@ -1,0 +1,7 @@
+{
+  "name": "sg-node",
+  "version": "0.0.1",
+  "dependencies": {
+    "juggernaut": ">=0.5.3"
+  }
+}
